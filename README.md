@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ariely Veríssimo 🙋🏻‍♀
 
--👩🏻‍💻 No momento não atuo na área
+-👩🏻‍💻 No momento procuro trabalho na área
 
 -✍🏻 Atualmente estou estudando JavaScript
 
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://https://www.linkedin.com/ariely-veríssimo-ribeiro-8444ab19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielyVR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielyVr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielyVr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
